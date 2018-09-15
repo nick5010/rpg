@@ -1,0 +1,11 @@
+body {
+    background-image: url(assets/Midgar-construction.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.pictures {
+    width: 150px;
+    height: 150px;
+}

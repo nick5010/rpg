@@ -1,0 +1,17 @@
+make 4 characters
+    these will be variables
+    cloud strife
+    tifa lockhart
+    vincent valentine
+    sephiroth
+            need id for these in html with image
+html text 
+        your character, 
+        enemies available to attack, 
+        fight section (with attack button),
+        defender (who you attack)
+
+click on icon to choose character,
+    characters not chosen are moved to enemies available to attack
+
+
